@@ -1,1 +1,4 @@
-Nowy projekt.
+Landing page.
+Technologies:
+- HTML
+- CSS
